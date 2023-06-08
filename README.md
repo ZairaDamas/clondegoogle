@@ -24,4 +24,4 @@ Contiene las siguientes secciones:
 Aprender a utilizar las etiquetas deHTML5 y CSS3.
 
 ## 4. Link a demo
-Aquí puedes visualizar mi proyecto terminado: Clon de Google.
+Aquí puedes visualizar mi proyecto terminado: [Clon de Google.](https://github.com/ZairaDamas/clondegoogle/edit/main/README.md)
